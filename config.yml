@@ -1,0 +1,48 @@
+#========================================#
+#                                        #
+#                                        #
+#          MOTD Randomizer v1.0          #
+#                                        #
+# by LeoAB2907                           #
+#========================================#
+
+
+
+#========================================
+# ICONS
+
+# You may add more elements to the list to randomize the server icon
+# Make sure it's 64x64 with png format.
+Custom-Icon:
+  Enabled: true
+  List:
+    - 'server-icon.png'
+
+
+#========================================
+#MAX PLAYERS
+
+#
+# Sets the maximum number of players
+Max-Players:
+  Enabled: true
+  Max: 1000
+
+Fake-Online:
+  Enabled: false
+  Count: 999
+  
+#========================================
+# MOTD
+
+# List of all possible motds. You may use bukkit color codes.
+#
+# Formating:
+# 
+# %n%         - New Line
+# %CENTER%    - Start with it to centers the MOTD
+# %online%    - 
+MOTD-List:
+  - '&fMOTD1'
+  - '&3MOTD2%n%&3LINES2'
+  - '%CENTER%&cThis is a Centered MOTD\n&dCENTERED!!!'

@@ -1,0 +1,5 @@
+version: 1.0
+name: MOTDRandomizer
+main: xyz.leonardoarias.plugins.motdRandomizer.Main
+author: LeoAB2907
+description: Changes the MOTD every time an user reloads the server list
