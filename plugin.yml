@@ -1,4 +1,4 @@
-version: 1.0
+version: v0.1-beta
 name: MOTDRandomizer
 main: xyz.leonardoarias.plugins.motdRandomizer.Main
 author: LeoAB2907
